@@ -1,5 +1,5 @@
 # 🕸️ SpideyMotion using JavaScript
-
+Live Demo : https://spideymotion-canvas.netlify.app/
 ![SpideyMotion Preview](![Screenshot 2025-05-21 142206](https://github.com/user-attachments/assets/1f818d39-1694-4137-83a9-6b3b71696c47)
 )
 **SpideyMotion** is a web-based interactive animation project built with **HTML5 Canvas** and **Vanilla JavaScript**, inspired by Spider-Man’s iconic web design. It features moving dots that connect with dynamic lines, creating a fluid and engaging animation when you hover your mouse over the screen.
